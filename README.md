@@ -104,4 +104,5 @@ Retorna a cor da camisa do time adversário.
 - Visual Studio ou Visual Studio Code
 
 
-*Desafio desenvolvido por Samuel Machado no programa de aceleração em C# da Codenation patrocinado pela Wiz Soluções.
+**Desafio desenvolvido por Samuel Machado no programa de aceleração em C# da Codenation patrocinado pela Wiz Soluções.**
+
